@@ -1,0 +1,11 @@
+git clone (url from github)
+
+git status 
+    - must run inside git directory
+
+git add (file1) (optional files)
+    - add files to git list
+
+git commit -m "(commet)" (files to commit)
+
+got push -u origin master
